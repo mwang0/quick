@@ -6,3 +6,4 @@ dist
 temp
 .changelog
 .history
+yarn.lock
